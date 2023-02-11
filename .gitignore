@@ -31,7 +31,6 @@ captures/
 output.json
 
 # IntelliJ
-*.iml
 .idea/
 misc.xml
 deploymentTargetDropDown.xml
@@ -46,3 +45,19 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+gradlew
+gradlew.bat
+settings.gradle
+/gradle/
+gradle.properties
